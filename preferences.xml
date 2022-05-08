@@ -1,9 +1,6 @@
-<xml>
-
-
-
-	<favorite_movie="It's a Wonderful Life(1946)">
-	<favorite_series="Rick and Morty">
-	<favorite_food="pasta">
-	<favorite season="summer">
-	<country_would_like_to_visit="USA">
+<?xml version="1.0" encoding="UTF-8" ?>
+<favorite_movie>It's a Wonderful Life(1946)</favorite_movie>
+<favorite_series>Rick and Morty</favorite_series>
+<favorite_food>pasta</favorite_food>
+<favorite_season>summer</favorite_season>
+<country_would_like_to_visit>USA</country_would_like_to_visit>
