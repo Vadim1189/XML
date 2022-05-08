@@ -1,11 +1,11 @@
 <xml>
 
   <Summary="App [Skyeng] shows error message (Connection error has occurred) when internet is connected">
-<Description> 
-  <Steps to reproduce="1. Tap  Skyeng icon  2. Tap (Слова которые пора повторить),  3. Сomplete tasks by tapping the correct answers"> 
-  <Expected Results="after completing the task with the word that you learn, a window appears with the next task with new word">  
-  <Actual Results="after completing several tasks, showing error message (Connection error has occurred. Please check internet connection and try again later). Button [Retry] doesn’t help to solve the problem, since it doesn't find a connection."> 
-  <Reproducible="often">
-</Description>
- <Environment="Native application Skyeng, App version: 9.55.0 (555) SDK 6.4, Android version 11, Model name: Samsung Galaxy A51, Model number: SM-A515F/DSM">
+  <Description> 
+   <Steps to reproduce="1. Tap  Skyeng icon  2. Tap (Слова которые пора повторить),  3. Сomplete tasks by tapping the correct answers"> 
+   <Expected Results="after completing the task with the word that you learn, a window appears with the next task with new word">  
+    <Actual Results="after completing several tasks, showing error message (Connection error has occurred. Please check internet connection and try again later). Button [Retry] doesn’t help to solve the problem, since it doesn't find a connection."> 
+    <Reproducible="often">
+  </Description>
+  <Environment="Native application Skyeng, App version: 9.55.0 (555) SDK 6.4, Android version 11, Model name: Samsung Galaxy A51, Model number: SM-A515F/DSM">
 
