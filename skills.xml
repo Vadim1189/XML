@@ -1,5 +1,5 @@
-<xml>
-	<skill_1="knowledge of software testing types, methodologies, and techniques">
-	<skill_2="Database and SQL">
-	<skill_3="Git version control">
-	<skill_4="Learn APIs">
+<?xml version="1.0" encoding="UTF-8" ?>
+<skill_1>knowledge of software testing types, methodologies, and techniques</skill_1>
+<skill_2>Database and SQL</skill_2>
+<skill_3>Git version control</skill_3>
+<skill_4>APIs knowledge</skill_4>
