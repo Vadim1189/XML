@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <Summary>App [Skyeng] shows error message (Connection error has occurred) when internet is connected</Summary>
 <Description>
     <Steps_to_reproduce>1. Tap  Skyeng icon  2. Tap (Слова которые пора повторить),  3. Сomplete tasks by tapping the correct answers</Steps_to_reproduce>
