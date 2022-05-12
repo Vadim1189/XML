@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<skill_1>knowledge of software testing types, methodologies, and techniques</skill_1>
-<skill_2>Database and SQL</skill_2>
-<skill_3>Git version control</skill_3>
-<skill_4>APIs knowledge</skill_4>
+<root>
+	<Management>TestRail</Management>
+	<Management>Qase</Management>
+	<Bug Tracking Systems>Jira</Bug Tracking Systems>
+	<API Testing Tools>Postman</API Testing Tools>
+	<API Testing Tools>SoapUI</API Testing Tools>
+	<GitBush>Terminal</GitBush>
+	<GitHub>Work with branches</GitHub>
+	<DevTools>Chrome</DevTools>
+	<DevTools>Firefox</DevTools>
+	<SQL>CRUD</SQL>
+	<SQL>Join</SQL>
+	<SQL>COUNT</SQL>
+	<Mobile testing>AndroidStudio</Mobile testing>
+	<Sniffers>Fiddler</Sniffers>
+	<Sniffers>Charlers</Sniffers>
+</root>
